@@ -1,0 +1,12 @@
+{
+  "name": "gulp-rails",
+  "version": "1.0.0",
+  "private": "true",
+  "engines": {
+    "node": ">= 6.2.2",
+    "npm": ">= 3.10.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
