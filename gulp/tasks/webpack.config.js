@@ -6,7 +6,7 @@ module.exports = {
     bundle: './gulp/assets/javascripts/bundle'
   },
   output: {
-    filename:   '[name].js',
+    filename:   '[name].min.js',
     assetsPath: config.javascript.dest
   },
   module: {
